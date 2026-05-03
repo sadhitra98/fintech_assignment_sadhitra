@@ -1,0 +1,18 @@
+{
+    "reconciliation_metrics": {
+        "total_ledger_records": 6,
+        "total_gateway_records": 6,
+        "records_only_in_ledger": 2,
+        "records_only_in_gateway": 2,
+        "records_in_both": 4
+    },
+    "mismatch_metrics": {
+        "amount_mismatches": 1,
+        "status_mismatches": 2,
+        "total_mismatched_records": 2
+    },
+    "flattened_api_metrics": {
+        "total_transactions_flattened": 2,
+        "unique_customers": 2
+    }
+}
