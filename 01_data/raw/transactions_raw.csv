@@ -1,0 +1,31 @@
+transaction_id,transaction_date,merchant_name,raw_amount,currency,status,risk_score,gateway_region,user_id,payment_method
+T001,4608200%, alpha mart ,42000000%,INR,captured,score:62,APAC,U001,UPI
+T002,4608200%,ALPHA MART,21000000%,INR,Captured ,5500%,,U002,Card
+T003,4608200%,BETA STORES ,51000000%,INR, CAPTURED,7100%, APAC ,U003,NetBanking
+T004,4608300%,Beta  Stores,16000000%,INR, failed e05 timeout ,6800%,apac,U004,Card
+T005,4608300%,Alpha Mart,39000000%,INR, CAPTURED,5800%,,U001,UPI
+T006,4608300%,Beta  Stores,27500000%,INR,Captured ,score:64,,U005,Wallet
+T007,4608300%,Alpha  Mart,45000000%,INR,chargeback,risk-83, APAC ,U006,Card
+T008,4608400%,BETA STORES ,34000000%,INR,Captured ,5900%,,U007,UPI
+T009,4608400%,Alpha Mart,12500000%,INR,captured,4600%,APAC,U002,Wallet
+T010,4608400%,Beta Stores,61000000%,INR,captured,risk-77,,U003,Card
+T011,4608400%,Alpha  Mart,19500000%,INR,FAILED e05 TIMEOUT,,,U008,UPI
+T012,4608500%,Beta  Stores,25000000%,INR,captured ,risk-61, APAC ,U009,Card
+T013,4608500%, alpha mart ,31000000%,INR,captured ,score:54,APAC,U010,UPI
+T014,4608500%,Beta  Stores,47000000%,INR,captured ,risk-73,APAC,U001,NetBanking
+T015,4608500%,Alpha Mart,13000000%,INR,captured,score:52,,U002,Card
+T016,4608600%,Beta  Stores,22000000%,INR,failed E05 timeout,risk-69,,U008,Card
+T017,4608600%,Beta  Stores,18000000%,INR,Failed E05 Timeout,score:72,apac,U008,Card
+T018,4608600%,BETA STORES ,14500000%,INR, chargeback ,risk-86, APAC ,U008,UPI
+T019,4608600%,Alpha  Mart,26000000%,INR,Failed E05 Timeout,score:67,apac,U008,Wallet
+T020,4608600%,Alpha Mart,52000000%,INR,Captured ,7500%,APAC,U005,UPI
+T021,4608700%, beta stores,33000000%,INR,captured ,score:63,,U006,Card
+T022,4608700%,ALPHA MART,41000000%,INR,captured ,6000%,APAC,U007,UPI
+T023,4608200%,City Pharma,520000%,EUR,Captured ,4200%, EU ,U003,Card
+T024,4608300%,Eco Home,610000%,EUR, chargeback ,score:65,EU,U004,Card
+T025,4608400%,City Pharma,280000%,EUR,captured ,3800%,eu,U005,Wallet
+T026,4608600%,Eco Home,330000%,EUR,Failed E05 Timeout,4400%, EU ,U006,NetBanking
+T027,4608200%,DELTA TRAVELS,720000%,USD,captured ,4900%,us,U007,Card
+T028,4608300%,Delta Travels,310000%,USD, CAPTURED,risk-41,US,U008,Card
+T029,4608500%,delta travels ,250000%,USD, chargeback ,score:58,US,U009,Wallet
+T030,4608700%,DELTA TRAVELS,180000%,USD,Failed E05 Timeout,score:47,US,U010,UPI

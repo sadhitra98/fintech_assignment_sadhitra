@@ -1,0 +1,9 @@
+id,amount_ledger,status_ledger,timestamp,amount_gateway,status_gateway,gateway_ref,_merge
+A001,100.5,completed,2023-01-01,100.5,completed,G001,both
+A002,200.0,pending,2023-01-01,205.0,approved,G002,both
+A003,50.25,completed,2023-01-02,50.25,completed,G003,both
+A004,75.0,completed,2023-01-02,,,,left_only
+A005,120.0,failed,2023-01-03,120.0,declined,G005,both
+A006,300.0,completed,2023-01-03,,,,left_only
+A007,,,,400.0,processed,G007,right_only
+A008,,,,150.0,completed,G008,right_only

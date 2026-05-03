@@ -1,0 +1,4 @@
+id,details_amount,details_currency,details_status,customer_id,customer_name,metadata_timestamp,metadata_source,item_item_id,item_quantity
+T1001,150.75,USD,success,C001,Alice,2023-10-26 10:00:00+00:00,api,I001,1.0
+T1001,150.75,USD,success,C001,Alice,2023-10-26 10:00:00+00:00,api,I002,2.0
+T1002,200.0,EUR,pending,C002,Bob,2023-10-26 10:00:00+00:00,api,,

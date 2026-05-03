@@ -1,0 +1,3 @@
+id,amount_ledger,status_ledger,timestamp,amount_gateway,status_gateway,gateway_ref,_merge
+A007,,,,400.0,processed,G007,right_only
+A008,,,,150.0,completed,G008,right_only
