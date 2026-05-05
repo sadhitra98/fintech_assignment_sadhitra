@@ -1,0 +1,12 @@
+Row Labels,Average of risk_score,Count of high_risk,Count of high_value,Sum of amount_usd
+Alpha Mart,61,11,11,"40,812"
+APAC,61,11,11,"40,812"
+Beta Stores,69,11,11,"41,782"
+APAC,69,11,11,"41,782"
+City Pharma,40,2,2,"8,640"
+EU,40,2,2,"8,640"
+Delta Travels,49,4,4,"14,600"
+US,49,4,4,"14,600"
+Eco Home,55,2,2,"10,246"
+EU,55,2,2,"10,246"
+Grand Total,61,30,30,"116,080"
