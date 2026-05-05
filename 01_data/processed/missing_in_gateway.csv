@@ -1,3 +1,0 @@
-id,amount_ledger,status_ledger,timestamp,amount_gateway,status_gateway,gateway_ref,_merge
-A004,75.0,completed,2023-01-02,,,,left_only
-A006,300.0,completed,2023-01-03,,,,left_only
