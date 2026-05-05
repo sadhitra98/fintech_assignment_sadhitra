@@ -1,0 +1,8 @@
+{
+    "total_ledger": 10,
+    "total_gateway": 9,
+    "missing_in_gateway": 2,
+    "missing_in_ledger": 1,
+    "amount_mismatches": 2,
+    "status_mismatches": 1
+}
